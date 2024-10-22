@@ -1,6 +1,7 @@
 # AngularStatic
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
+This is an Example of how to create Static Attributes on Components.
 
 ## Development server
 
